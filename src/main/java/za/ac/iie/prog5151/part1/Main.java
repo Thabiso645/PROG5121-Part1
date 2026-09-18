@@ -38,7 +38,7 @@ public class Main {
             String username = scanner.nextLine();
             
             user.setUsername(username);
-            
+            Added if statements for the different outcomes the user might get after entering information
             if (user.checkUserName()) {
                 
                 System.out.println("Username successfully captured.");
