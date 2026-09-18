@@ -8,6 +8,7 @@ package za.ac.iie.prog5121.part1;
  *
  * @author thabiso
  */
+Declared variables
 public class Login {
     
     private String username;
