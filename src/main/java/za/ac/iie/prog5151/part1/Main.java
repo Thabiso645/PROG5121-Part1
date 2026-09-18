@@ -82,7 +82,7 @@ public class Main {
                              + "please correct the cell phone number and try again."
                 );
             }
-            
+            Added if statements to check if the registration requiremnts are met
             //Check if all the registration requirements are met
             if (user.checkUserName()
                     && user.checkPasswordComplexity()
