@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
+Added JUnit tests for the login class
 /**
  * JUnit tests for the login class
  */
