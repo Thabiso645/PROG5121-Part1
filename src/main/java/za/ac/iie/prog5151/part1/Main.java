@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             Login user = new Login();
-            
+            Created the header section of the chat app
             System.out.println("==============================");
             System.out.println("      CHAT APP - PART 1     ");
             System.out.println("   REGISTRATION AND LOGIN   ");
