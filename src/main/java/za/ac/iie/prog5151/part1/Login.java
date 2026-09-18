@@ -51,6 +51,7 @@ public class Login {
    * 
    * @return true if the username is formatted correctly
    */
+    Created booleans to check the information entered by the user
   public boolean checkUserName() {
       return username.contains("_") && username.length() <=5;
   }
